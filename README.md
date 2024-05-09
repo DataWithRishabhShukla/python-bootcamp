@@ -1,2 +1,2 @@
 # python-bootcamp
-This repo is for code related to python 3 bootcamp
+This repository hosts the code/projects/demos for Python programming.
